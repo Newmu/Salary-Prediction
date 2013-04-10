@@ -1,0 +1,8 @@
+{
+	"MODEL_PATH": "model.p",
+	"VECTORIZER_1_PATH": "vect1.p",
+	"VECTORIZER_2_PATH": "vect2.p",
+	"TRAIN_DATA_PATH": "../Documents/SalaryPrediction/Train_rev1.csv",
+	"TEST_DATA_PATH": "../Documents/SalaryPrediction/Valid_rev1.csv",
+	"SUBMISSION_PATH": "predictions.csv"
+}
