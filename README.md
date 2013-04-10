@@ -3,6 +3,7 @@ Salary-Prediction
 
 Code for the Adzuna Salary Prediction Kaggle competition
 http://www.kaggle.com/c/job-salary-prediction 
+
 Placed 10th out of approximately 300 teams.
 
 ***OVERALL NOTES***
@@ -21,15 +22,6 @@ Python 2.7x
 Scikit Learn
 Numpy
 Scipy
-
-***How To Set Up Environment***
-
-sudo apt-get update
-sudo apt-get install build-essential python-dev python-numpy python-setuptools python-scipy libatlas-dev
-sudo apt-get remove libatlas3gf-base libatlas-dev
-sudo apt-get install libopenblas-dev
-sudo apt-get install pip
-pip install -U scikit-learn
 
 ***How To Train Model***
 
