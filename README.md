@@ -2,16 +2,13 @@ Salary-Prediction
 =================
 
 Code for the Adzuna Salary Prediction Kaggle competition
-
 http://www.kaggle.com/c/job-salary-prediction 
-
 Placed 10th out of approximately 300 teams.
 
 ***OVERALL NOTES***
 
 
 Training needs somewhere between 30 and 60 gigs of RAM and takes between 1 and 3 hours.
-
 We rented an EC2 instance at spot price so training the model should cost around $1.
 
 ***Os and Hardware***
