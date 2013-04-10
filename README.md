@@ -12,11 +12,7 @@ We rented an EC2 instance at spot price so training the model should cost around
 
 - Os and Hardware
 
-Os:
-Ubuntu 12.10
-
-Hardware:
-Amazon EC2 Instance - High-Memory Quadruple Extra Large Instance (m2.4xlarge)
+Ubuntu 12.10 - Amazon EC2 Instance - High-Memory Quadruple Extra Large Instance (m2.4xlarge)
 
 - Third Party Software
 
